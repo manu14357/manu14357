@@ -37,7 +37,7 @@ Building scalable AI solutions and automation systems
 **Application Developer** @ Mrcitsoft Innovations *(Apr 2024 - Mar 2025)*  
 Developed full-stack web applications with React, Node.js, and MongoDB
 
-**Intern** @ Yottaasys *(May 2025 - Aug 2025)*  
+**SDE-1** @ Yottaasys *(May 2025 - Present)*  
 AI/ML development and system integration
 
 ---
