@@ -46,8 +46,6 @@ AI/ML development and system integration
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manu14357&theme=tokyonight&hide_border=true)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=manu14357&style=flat-square&color=blue)
 
 </div>
