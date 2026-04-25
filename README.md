@@ -1,64 +1,32 @@
-# Hi, I'm Manohar Choppa 👋
+<h1 align="center">hey, i'm manohar choppa 👾</h1>
 
-**SDE-1 @ Yottaasys** | AI Engineer | Future-focused on AGI & Robotics 🤖
+<p align="center">
+  <b>SDE-1 · AI Engineer · B.Tech CSE (AI & ML)</b><br/>
+  cooking up AI stuff that actually matters 🤖✨
+</p>
 
-Building intelligent systems that solve real-world problems. Passionate about the intersection of AI, automation, and humanoid robotics.
-
----
-
-## 🚀 About Me
-
-- 🎓 **B.Tech** in Computer Science (AI & ML) - DADI Institute of Engineering & Technology
-- 💼 **SDE-1 @ Yottaasys** - Building AI-powered solutions
-- 🌍 Based in **Visakhapatnam, Andhra Pradesh, India**
-- 🎯 Focused on **Artificial General Intelligence (AGI)** and **Humanoid Robotics**
-- 📧 **Email:** [manoharchoppa6@gmail.com](mailto:manoharchoppa6@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/manu1435/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/manu14357"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:manoharchoppa6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🏆 Featured Projects
+## about me 🙋
 
-### [SmartDoc AI](https://smartdoc-three.vercel.app/)
-AI-powered PDF chat assistant using **NVIDIA Llama-3.3-Nemotron-70B**. Transform static documents into interactive, intelligent conversations. Built with React, TypeScript, Node.js, and advanced LLM integration.
+day job hits different, so you'll catch me pushing code **only on weekends & every night** 🌙  
+that's when the real stuff gets built — no cap.
 
-### [Sraws](https://sraws.com/)
-Social media platform for reporting scams and fraudulent activities. Features real-time reporting, community engagement, and secure private messaging.
+obsessed with **LLMs**, **AI automation**, and the whole **AGI + humanoid robotics** arc.  
+i genuinely believe we're living through the most insane era of tech rn and i'd rather be building than watching 🔥
 
-### AI-Powered Fake News Detection
-ML/DL system using Logistic Regression, LSTM, and ANN for real-time news verification. Integrated with ChatGPT and NVIDIA APIs for enhanced accuracy.
-
----
-
-## 💼 Experience
-
-**SDE-1** @ Yottaasys *(Aug 2025 - Present)*  
-Building scalable AI solutions and automation systems
-
-**Application Developer** @ Mrcitsoft Innovations *(Apr 2024 - Mar 2025)*  
-Developed full-stack web applications with React, Node.js, and MongoDB
-
-**SDE-1** @ Yottaasys *(May 2025 - Present)*  
-AI/ML development and system integration
+> currently: surviving weekdays, thriving on weeknights 😭⌨️
 
 ---
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manu14357&style=flat-square&color=blue" />
+</p>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=manu14357&style=flat-square&color=blue)
-
-</div>
-
----
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manu1435/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/manu14357)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manoharchoppa6@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://manohar-choppa.blogspot.com/)
-
----
-
-**💭 "Push yourself, because no one else is going to do it for you."**
+<p align="center"><i>"main character energy only. no days off. 🎯"</i></p>
